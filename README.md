@@ -17,9 +17,9 @@
   - C#
   - C++
   - C
-  - Rust
-- **Frameworks**: React, Node.js, FiveM
-- **Tools**: Git, Visual Studio Code
+  - Game (Rust,fivem,minecraft)
+- **Frameworks**: React, Node.js
+- **Tools**: 
 
 ## 📊 Data and Interests
 - **Game Development**: Creating mods and servers for various games.
